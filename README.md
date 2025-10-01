@@ -66,7 +66,7 @@ La versión con monitores (`synchronized` + `wait/notifyAll`) integra exclusión
 
 En definitiva, aplicar estas técnicas evita condiciones de carrera, mejora la predictibilidad y eleva la calidad del software concurrente.
 
-> Nota: Lo siguiente a continuación no pertenece en sí a las rúbricas requeridas pero son importantes para la documentación.
+> Nota: Lo siguiente información no pertenece en sí a las rúbricas requeridas pero son importantes para la documentación.
 Att: José Manuel Castillo Queh
 
 ## Cómo compilar y ejecutar
